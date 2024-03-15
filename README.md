@@ -1,2 +1,3 @@
 # VideoGame-RPG-Csharp-Unity
-VideoGame_Rpg_C#_In_Unity
+Code for my upcoming video game rpg, come to life. 
+
