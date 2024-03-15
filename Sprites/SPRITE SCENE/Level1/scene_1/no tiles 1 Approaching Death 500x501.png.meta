@@ -1,0 +1,622 @@
+fileFormatVersion: 2
+guid: 606b6bcf9419940529702f520c7f758b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3579528243731944359
+    second: no tiles 1 Approaching Death 500x501_0
+  - first:
+      213: -6846099834508838816
+    second: no tiles 1 Approaching Death 500x501_1
+  - first:
+      213: -8685791572275300345
+    second: no tiles 1 Approaching Death 500x501_2
+  - first:
+      213: -8948327472362097007
+    second: no tiles 1 Approaching Death 500x501_3
+  - first:
+      213: -2850561299351083995
+    second: no tiles 1 Approaching Death 500x501_4
+  - first:
+      213: 7118121638197973720
+    second: no tiles 1 Approaching Death 500x501_5
+  - first:
+      213: 2951579630882222797
+    second: no tiles 1 Approaching Death 500x501_6
+  - first:
+      213: -8997566399274194440
+    second: no tiles 1 Approaching Death 500x501_7
+  - first:
+      213: 4052141016579491267
+    second: no tiles 1 Approaching Death 500x501_8
+  - first:
+      213: 6980561691119181367
+    second: no tiles 1 Approaching Death 500x501_9
+  - first:
+      213: 4905046939536436481
+    second: no tiles 1 Approaching Death 500x501_10
+  - first:
+      213: 4205199241579652916
+    second: no tiles 1 Approaching Death 500x501_11
+  - first:
+      213: -7184830966738619465
+    second: no tiles 1 Approaching Death 500x501_12
+  - first:
+      213: 5170292070215538215
+    second: no tiles 1 Approaching Death 500x501_13
+  - first:
+      213: 5589801209495257925
+    second: no tiles 1 Approaching Death 500x501_14
+  - first:
+      213: 6792031837224364728
+    second: no tiles 1 Approaching Death 500x501_15
+  - first:
+      213: -906707011077426473
+    second: no tiles 1 Approaching Death 500x501_16
+  - first:
+      213: -5764004536383653095
+    second: no tiles 1 Approaching Death 500x501_17
+  - first:
+      213: -6708088800278668576
+    second: no tiles 1 Approaching Death 500x501_18
+  - first:
+      213: 2501472788909874591
+    second: no tiles 1 Approaching Death 500x501_19
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: no tiles 1 Approaching Death 500x501_0
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 484
+        width: 19
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95c21e80706f25ec0800000000000000
+      internalID: -3579528243731944359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: no tiles 1 Approaching Death 500x501_1
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 484
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0687d330974cdf0a0800000000000000
+      internalID: -6846099834508838816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: no tiles 1 Approaching Death 500x501_2
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 484
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 708f275959ed57780800000000000000
+      internalID: -8685791572275300345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: no tiles 1 Approaching Death 500x501_3
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 484
+        width: 23
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 196fcfbf29721d380800000000000000
+      internalID: -8948327472362097007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: no tiles 1 Approaching Death 500x501_4
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 484
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 524e3b5e995c078d0800000000000000
+      internalID: -2850561299351083995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: no tiles 1 Approaching Death 500x501_5
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 421
+        width: 37
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d2dfc0aae5a8c260800000000000000
+      internalID: 7118121638197973720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: no tiles 1 Approaching Death 500x501_6
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 439
+        width: 53
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc27301490e16f820800000000000000
+      internalID: 2951579630882222797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: no tiles 1 Approaching Death 500x501_7
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 436
+        width: 28
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f96540f709322380800000000000000
+      internalID: -8997566399274194440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: no tiles 1 Approaching Death 500x501_8
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 439
+        width: 30
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c5c20119c81c3830800000000000000
+      internalID: 4052141016579491267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: no tiles 1 Approaching Death 500x501_9
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 433
+        width: 27
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73edbdb9fdfefd060800000000000000
+      internalID: 6980561691119181367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: no tiles 1 Approaching Death 500x501_10
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 372
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10dafa5143a321440800000000000000
+      internalID: 4905046939536436481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: no tiles 1 Approaching Death 500x501_11
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 372
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 437e81c1e6edb5a30800000000000000
+      internalID: 4205199241579652916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: no tiles 1 Approaching Death 500x501_12
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 383
+        width: 84
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b371587d4a5a4c90800000000000000
+      internalID: -7184830966738619465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: no tiles 1 Approaching Death 500x501_13
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 328
+        width: 61
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72657369e3190c740800000000000000
+      internalID: 5170292070215538215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: no tiles 1 Approaching Death 500x501_14
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 337
+        width: 8
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54383018596f29d40800000000000000
+      internalID: 5589801209495257925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: no tiles 1 Approaching Death 500x501_15
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 335
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bae6e068f4224e50800000000000000
+      internalID: 6792031837224364728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: no tiles 1 Approaching Death 500x501_16
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 346
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d2bf5107caba63f0800000000000000
+      internalID: -906707011077426473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: no tiles 1 Approaching Death 500x501_17
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 287
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91bbc15c9642200b0800000000000000
+      internalID: -5764004536383653095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: no tiles 1 Approaching Death 500x501_18
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 291
+        width: 20
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ea1d91f6c418e2a0800000000000000
+      internalID: -6708088800278668576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: no tiles 1 Approaching Death 500x501_19
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 340
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9d57468f3407b220800000000000000
+      internalID: 2501472788909874591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      no tiles 1 Approaching Death 500x501_17: -5764004536383653095
+      no tiles 1 Approaching Death 500x501_5: 7118121638197973720
+      no tiles 1 Approaching Death 500x501_19: 2501472788909874591
+      no tiles 1 Approaching Death 500x501_3: -8948327472362097007
+      no tiles 1 Approaching Death 500x501_0: -3579528243731944359
+      no tiles 1 Approaching Death 500x501_13: 5170292070215538215
+      no tiles 1 Approaching Death 500x501_16: -906707011077426473
+      no tiles 1 Approaching Death 500x501_4: -2850561299351083995
+      no tiles 1 Approaching Death 500x501_8: 4052141016579491267
+      no tiles 1 Approaching Death 500x501_11: 4205199241579652916
+      no tiles 1 Approaching Death 500x501_14: 5589801209495257925
+      no tiles 1 Approaching Death 500x501_2: -8685791572275300345
+      no tiles 1 Approaching Death 500x501_18: -6708088800278668576
+      no tiles 1 Approaching Death 500x501_12: -7184830966738619465
+      no tiles 1 Approaching Death 500x501_10: 4905046939536436481
+      no tiles 1 Approaching Death 500x501_9: 6980561691119181367
+      no tiles 1 Approaching Death 500x501_15: 6792031837224364728
+      no tiles 1 Approaching Death 500x501_1: -6846099834508838816
+      no tiles 1 Approaching Death 500x501_6: 2951579630882222797
+      no tiles 1 Approaching Death 500x501_7: -8997566399274194440
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

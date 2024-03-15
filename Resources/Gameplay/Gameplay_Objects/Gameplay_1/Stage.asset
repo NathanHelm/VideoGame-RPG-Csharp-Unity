@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d95b3d90e9a1847b983330f899277629, type: 3}
+  m_Name: Stage
+  m_EditorClassIdentifier: 
+  GameObject_fileName: Gameplay_1
+  Gameplay_Object_Path: Prefab/Game_Stage/Gameplay_1
+  EnemySprite: {fileID: 1557927717, guid: 2f5e2476e156543149d19b02694e7ce6, type: 3}

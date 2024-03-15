@@ -1,0 +1,628 @@
+fileFormatVersion: 2
+guid: d993fc5ebe8b24c3d9f990fe0eb51554
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 2
+    wrapV: 2
+    wrapW: 2
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: scene 1 act 5 500x500 -Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 308
+        width: 231
+        height: 186
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47fe2eb9820804dfcb09b35902cfcbfe
+      internalID: -1784897216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scene 1 act 5 500x500 -Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 415
+        width: 18
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d52b6bc73aa14d78a64757fc941fddc
+      internalID: -562181038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scene 1 act 5 500x500 -Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 411
+        width: 51
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f88fee4f7d48849dca0f929050175001
+      internalID: -776523379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scene 1 act 5 500x500 -Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 377
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4238ff9285434e6f8758f1dd6e107f4
+      internalID: 1779143491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scene 1 act 5 500x500 -Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 376
+        width: 6
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afc74f20a5a3c4135b01e88f8384da61
+      internalID: 1127293409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scene 1 act 5 500x500 -Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 375
+        width: 6
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dc24b1b112b44a2dab0faa2829bf938
+      internalID: -1558407964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scene 1 act 5 500x500 -Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 343
+        width: 51
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0c3aa2382fdd4aa8bb7ed483398031c
+      internalID: -2057954302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scene 1 act 5 500x500 -Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 352
+        width: 19
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2be2b46ea45340b08f1136741bd8363
+      internalID: 706830326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scene 1 act 5 500x500 -Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 343
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d3a6557ecd3c4ba781bcfabf97aed6c
+      internalID: -1385456134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scene 1 act 5 500x500 -Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 321
+        width: 19
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20950ec71e25c4aa7b5a76e5b3929dca
+      internalID: 2077881811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scene 1 act 5 500x500 -Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 310
+        width: 35
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc00457005a3942cd8d0fd2297e333c9
+      internalID: -1969210575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scene 1 act 5 500x500 -Sheet_11
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 321
+        width: 22
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 609c81f17f687495ab07f1da1aacc518
+      internalID: 2051845106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scene 1 act 5 500x500 -Sheet_12
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 327
+        width: 20
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e080b159732fd46ff95916787166049a
+      internalID: 1673006717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scene 1 act 5 500x500 -Sheet_13
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 281
+        width: 51
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8197abab2b4d445aa9e5414d5ac87acb
+      internalID: 1970506013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scene 1 act 5 500x500 -Sheet_14
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 164
+        width: 109
+        height: 144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 895696bedc3414b99ae38526fce381f1
+      internalID: -456580553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scene 1 act 5 500x500 -Sheet_15
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 289
+        width: 19
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3900ec03a7bc469fbc85bdb59465bbb
+      internalID: 736527801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scene 1 act 5 500x500 -Sheet_16
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 196
+        width: 88
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2040b4c7aee04d589137923c251066b
+      internalID: -1654224742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scene 1 act 5 500x500 -Sheet_17
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 261
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfb340f5b11d24437975d977c7d79f18
+      internalID: -1654797931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scene 1 act 5 500x500 -Sheet_18
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 172
+        width: 54
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93662b8cf6ac146628f90492880ff1aa
+      internalID: 715789448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scene 1 act 5 500x500 -Sheet_19
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 255
+        width: 19
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfcd6174f4c454094be540366269f2d0
+      internalID: 28643537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scene 1 act 5 500x500 -Sheet_20
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 229
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6f2587ce349143048654b0e9ccc76e7
+      internalID: -852006571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scene 1 act 5 500x500 -Sheet_21
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 181
+        width: 59
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0bf803ab0838455fa4749ebd178b472
+      internalID: -1774183255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scene 1 act 5 500x500 -Sheet_22
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 108
+        width: 35
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4573a291c80334473b96b797bcb291fd
+      internalID: -119884396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      scene 1 act 5 500x500 -Sheet_22: -119884396
+      scene 1 act 5 500x500 -Sheet_2: -776523379
+      scene 1 act 5 500x500 -Sheet_5: -1558407964
+      scene 1 act 5 500x500 -Sheet_9: 2077881811
+      scene 1 act 5 500x500 -Sheet_7: 706830326
+      scene 1 act 5 500x500 -Sheet_17: -1654797931
+      scene 1 act 5 500x500 -Sheet_20: -852006571
+      scene 1 act 5 500x500 -Sheet_1: -562181038
+      scene 1 act 5 500x500 -Sheet_12: 1673006717
+      scene 1 act 5 500x500 -Sheet_19: 28643537
+      scene 1 act 5 500x500 -Sheet_0: -1784897216
+      scene 1 act 5 500x500 -Sheet_6: -2057954302
+      scene 1 act 5 500x500 -Sheet_4: 1127293409
+      scene 1 act 5 500x500 -Sheet_15: 736527801
+      scene 1 act 5 500x500 -Sheet_8: -1385456134
+      scene 1 act 5 500x500 -Sheet_13: 1970506013
+      scene 1 act 5 500x500 -Sheet_21: -1774183255
+      scene 1 act 5 500x500 -Sheet_18: 715789448
+      scene 1 act 5 500x500 -Sheet_10: -1969210575
+      scene 1 act 5 500x500 -Sheet_3: 1779143491
+      scene 1 act 5 500x500 -Sheet_11: 2051845106
+      scene 1 act 5 500x500 -Sheet_16: -1654224742
+      scene 1 act 5 500x500 -Sheet_14: -456580553
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

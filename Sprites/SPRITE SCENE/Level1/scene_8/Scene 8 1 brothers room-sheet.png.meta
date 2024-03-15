@@ -1,0 +1,650 @@
+fileFormatVersion: 2
+guid: d1d4dd6e086234804a9681993d6e23d0
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Scene 8 1 brothers room-sheet_0
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 403
+        width: 53
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab0f544cb25fe4e5ea2007f469f23f9b
+      internalID: 920187321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene 8 1 brothers room-sheet_1
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 401
+        width: 53
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9244a15afadad4cd39370626889b755f
+      internalID: 204532709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene 8 1 brothers room-sheet_2
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 401
+        width: 49
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b98a0302bfae4383b2b02e06a06612b
+      internalID: 911886558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene 8 1 brothers room-sheet_3
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 457
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbc9eb82c9add43a08c7c75873809ff8
+      internalID: 1034496748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene 8 1 brothers room-sheet_4
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 437
+        width: 7
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70c5f912fde454231a6f3d04824d9a4a
+      internalID: -2078999751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene 8 1 brothers room-sheet_5
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 328
+        width: 33
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48bf0375dedd14ca683f1e3e0d40c676
+      internalID: 2097360631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene 8 1 brothers room-sheet_6
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 389
+        width: 53
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: add4a2444fb434684a4efa8e94e33d6e
+      internalID: -491945525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene 8 1 brothers room-sheet_7
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 391
+        width: 48
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44418a11c18f44c84b87ff1cb16a25e7
+      internalID: 1573220055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene 8 1 brothers room-sheet_8
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 389
+        width: 40
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce5fa38e9ab49497e8a484f307c9374d
+      internalID: 1826538787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene 8 1 brothers room-sheet_9
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 390
+        width: 7
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d632b8bbb98b49a4b1fe237c48bff03
+      internalID: -1642199202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene 8 1 brothers room-sheet_10
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 389
+        width: 6
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24d07f4e136a24181a83714b46de5c3e
+      internalID: 1130135442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene 8 1 brothers room-sheet_11
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 361
+        width: 25
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69cc40de61645415c875b95275279137
+      internalID: -986191805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene 8 1 brothers room-sheet_12
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 346
+        width: 16
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c03e37c3f9627463baf4dfaa660cda9c
+      internalID: 1179740922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene 8 1 brothers room-sheet_13
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 346
+        width: 30
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 187a772eb9abe48fd9be86fa0749b435
+      internalID: 787064535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene 8 1 brothers room-sheet_14
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 303
+        width: 56
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6ce35cb2f0714377b7523ba29b172f5
+      internalID: -1246239388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene 8 1 brothers room-sheet_15
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 276
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59ef880ac3c1d4daf8964a90b72e911e
+      internalID: -137258507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene 8 1 brothers room-sheet_16
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 223
+        width: 59
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f564e62473f74b03909cdeac23888e9
+      internalID: -1983991418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene 8 1 brothers room-sheet_17
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 196
+        width: 67
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2ec2c7164db3466da44b0eec025f073
+      internalID: -841441382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene 8 1 brothers room-sheet_18
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 259
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57523919bbe22436caa2ecd766ce4430
+      internalID: 1888296048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene 8 1 brothers room-sheet_19
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 200
+        width: 44
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98ef8731c9af64551b3c2f58703265af
+      internalID: -1351491437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene 8 1 brothers room-sheet_20
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 175
+        width: 57
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28c6af3c745254079bdb52dc68dadedb
+      internalID: -1910627706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene 8 1 brothers room-sheet_21
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 107
+        width: 78
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b7ab3f9453da42699c6c3e521508595
+      internalID: 575256019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene 8 1 brothers room-sheet_22
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 75
+        width: 50
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a363e39772a814e98a628f6a30dd774b
+      internalID: 1703181862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene 8 1 brothers room-sheet_23
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 76
+        width: 58
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03dc7c07e21f84d56a2aeb7b6f640ed9
+      internalID: 1555828502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Scene 8 1 brothers room-sheet_4: -2078999751
+      Scene 8 1 brothers room-sheet_8: 1826538787
+      Scene 8 1 brothers room-sheet_20: -1910627706
+      Scene 8 1 brothers room-sheet_21: 575256019
+      Scene 8 1 brothers room-sheet_18: 1888296048
+      Scene 8 1 brothers room-sheet_14: -1246239388
+      Scene 8 1 brothers room-sheet_0: 920187321
+      Scene 8 1 brothers room-sheet_1: 204532709
+      Scene 8 1 brothers room-sheet_7: 1573220055
+      Scene 8 1 brothers room-sheet_23: 1555828502
+      Scene 8 1 brothers room-sheet_6: -491945525
+      Scene 8 1 brothers room-sheet_13: 787064535
+      Scene 8 1 brothers room-sheet_15: -137258507
+      Scene 8 1 brothers room-sheet_5: 2097360631
+      Scene 8 1 brothers room-sheet_11: -986191805
+      Scene 8 1 brothers room-sheet_16: -1983991418
+      Scene 8 1 brothers room-sheet_2: 911886558
+      Scene 8 1 brothers room-sheet_10: 1130135442
+      Scene 8 1 brothers room-sheet_9: -1642199202
+      Scene 8 1 brothers room-sheet_12: 1179740922
+      Scene 8 1 brothers room-sheet_3: 1034496748
+      Scene 8 1 brothers room-sheet_17: -841441382
+      Scene 8 1 brothers room-sheet_19: -1351491437
+      Scene 8 1 brothers room-sheet_22: 1703181862
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
